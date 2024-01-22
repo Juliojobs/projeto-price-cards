@@ -1,4 +1,6 @@
 # projeto-price-cards
+estilo.css
+
 body {
     background-color: #0c1014;
     color: white;
@@ -48,3 +50,4 @@ a.header__nav--active {
     background-color: #cbe300;
     color: #0c4014;
 }
+
